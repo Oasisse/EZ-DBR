@@ -87,6 +87,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
+This project is licensed under the [(http://www.apache.org/licenses/LICENSE-2.0)]. Feel free to use, modify, and distribute the code as per the license terms.
 
 ---
