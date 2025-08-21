@@ -19,6 +19,8 @@ A CrystalXE script designed to automate the growth of Distributed Bragg Reflecto
 ## Introduction
 EZ-DBR is a script that automates the growth of DBRs by monitoring and adjusting the growth process in real-time using spectral reflectance data. It is designed to work with CrystalXE MBE reactor control software, providing precise control over layer deposition and ensuring high-quality DBR structures.
 
+<img width="1082" height="646" alt="A1630_FTIR" src="https://github.com/user-attachments/assets/d104d6ce-d3fc-4d92-8323-773f2a9c30d5" />
+
 ---
 
 ## Features
