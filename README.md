@@ -1,6 +1,6 @@
 # EZ-DBR: Automated Growth Control via In-Situ Spectral Reflectance
 
-A CrystalXE script designed to automate the growth of Distributed Bragg Reflectors (DBRs) using real-time in-situ spectral reflectance feedback. This script is tailored for use with the CrystalXE Molecular Beam Epitaxy (MBE) reactor control software.
+A CrystalXE script designed to automate the growth of Distributed Bragg Reflectors (DBRs) using real-time in-situ spectral reflectance feedback measured with EZ-REF. This script is tailored for use with the CrystalXE Molecular Beam Epitaxy (MBE) reactor control software.
 
 ---
 
